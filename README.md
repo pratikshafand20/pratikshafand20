@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @pratikshafand20.
-- 🚀 Passionate Frontend Developer | HTML | CSS | JavaScript | React
-- 🎨 I love building modern interactive and responsive,user-friendly web applications.
-- 💡 Always learning new frontend technologies and best practices.
+- 🚀 Passionate Java Bakend Developer | Java | SpringBoot | Hibernate
+- 🚀 I enjoy designing and building scalable, efficient, and reliable backend systems that power seamless user experiences.
+- 💡 Always learning new backed technologies and best practices.
 - 🔥 Strong problem-solving and debugging skills.
-- 🎯 Currently exploring Javascript, React, performance optimization, and UI/UX design.
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m looking to collaborate on backed projects
 - 📫 Connect with me on linked in[https://www.linkedin.com/in/pratiksha-fand-961153179/]
 
 
